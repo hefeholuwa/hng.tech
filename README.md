@@ -21,7 +21,7 @@ php -S localhost:8000
 Visit localhost:8000 in your browser
 ```
 
-# Contribution Guide
+# Contribution Guide for participants
 
 ```bash
 git checkout staging
